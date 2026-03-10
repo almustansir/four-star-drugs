@@ -12,3 +12,6 @@
 - [ ] PostgreSQL 16+ installed (psql --version)
 
 - [ ] PostgreSQL service running
+
+
+***work in progress***
