@@ -9,7 +9,7 @@
 
 - [ ] npm 10.x installed (npm --version)
 
-- [ ] PostgreSQL 16+ installed (psql --version)
+- [ ] PostgreSQL 18 installed (psql --version)
 
 - [ ] PostgreSQL service running
 
