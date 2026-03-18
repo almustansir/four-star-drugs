@@ -12,10 +12,10 @@
 
 Django apps:
 
-python manage.py startapp accounts # Users, stores, roles
-python manage.py startapp medicines # Medicine catalog
-python manage.py startapp inventory # Stock, batches, warehouses
-python manage.py startapp orders # Orders, invoices
+- python manage.py startapp accounts # Users, stores, roles
+- python manage.py startapp medicines # Medicine catalog
+- python manage.py startapp inventory # Stock, batches, warehouses
+- python manage.py startapp orders # Orders, invoices
 
 ✅ Project so far:
 
