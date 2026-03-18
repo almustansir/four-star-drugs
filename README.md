@@ -8,17 +8,24 @@
 
 - [ ] npm 10.x installed (npm --version)
 
-- [ ] PostgreSQL 18 installed (psql --version)
-
-- [ ] PostgreSQL service running
+- [ ] Firebase
 
 Django apps:
-
-# Create core apps
 
 python manage.py startapp accounts # Users, stores, roles
 python manage.py startapp medicines # Medicine catalog
 python manage.py startapp inventory # Stock, batches, warehouses
 python manage.py startapp orders # Orders, invoices
+
+✅ Project so far:
+
+- ✅ Created project structure
+- ✅ Set up Python virtual environment
+- ✅ Installed Django 5.2 LTS
+- ✅ Created Django project and apps
+- ✅ Configured settings
+- ✅ Ran initial migrations
+- ✅ Created superuser
+- ✅ Initialized git repository
 
 **_work in progress_**
